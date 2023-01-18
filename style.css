@@ -1,0 +1,75 @@
+h1{
+    font-size: 60px;
+    font-family: sans-serif;
+    text-align: center;
+    color: blue;
+    text-decoration: underline;
+}
+
+body{
+    background-color: antiquewhite;
+}
+table{
+    border:  6px solid black;
+    margin-left: 18%;
+}
+.boy td{
+    background-image: url('https://cdn4.iconfinder.com/data/icons/chess-icons/200/chess_white_pawn-256.png');
+    background-repeat: no-repeat;
+    background-size: 80px;
+    background-position: center;
+}
+.girl td{
+    background-image: url('https://cdn2.iconfinder.com/data/icons/boardgames-solid/64/012_chess-piece-game-board-leisure-pawn-256.png');
+    background-repeat: no-repeat;
+    background-size: 70px;
+    background-position: center;
+}
+.box{
+    background-image: url('https://cdn2.iconfinder.com/data/icons/chess-46/500/nim171_4_white_rook_piece_business_sport_chess-256.png');
+    background-repeat: no-repeat;
+    background-size: 80px;
+    background-position: center;
+}
+.ice{
+    background-image: url('https://cdn4.iconfinder.com/data/icons/chess-20/66/knight_board_game_piece_strategy_white_chess-256.png');
+    background-repeat: no-repeat;
+    background-size: 70px;
+    background-position: center;
+}
+.ic{
+    background-image: url('https://cdn2.iconfinder.com/data/icons/chess-46/500/nim171_5_knight_white_piece_business_sport-256.png');
+    background-repeat: no-repeat;
+    background-size: 70px;
+    background-position: center;
+}
+.row{
+    background-image: url('https://cdn0.iconfinder.com/data/icons/board-card-games-iconez/64/Bishop-White-256.png');
+    background-repeat: no-repeat;
+    background-size: 70px;
+    background-position: center;
+}
+.col{
+    background-image: url('https://cdn0.iconfinder.com/data/icons/seo-web-31/64/x-11-256.png');
+    background-repeat: no-repeat;
+    background-size: 70px;
+    background-position: center;
+}
+.red{
+    background-image: url('https://cdn0.iconfinder.com/data/icons/board-card-games-iconez/64/King-Black-256.png');
+    background-repeat: no-repeat;
+    background-size: 70px;
+    background-position: center;
+}
+.blue{
+    background-image: url('https://cdn1.iconfinder.com/data/icons/metaphoricon-essentials-black-and-white-vol-1/256/crown-royal-king-kingdom-256.png');
+    background-repeat: no-repeat;
+    background-size: 70px;
+    background-position: center;
+}
+.pink{
+    background-image: url('https://cdn4.iconfinder.com/data/icons/chess-outline/32/rook_game_chess_strategy-256.png');
+    background-repeat: no-repeat;
+    background-size: 70px;
+    background-position: center;
+}
